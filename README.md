@@ -1,7 +1,7 @@
 # Projeto11__Tripleten-Bootcamp
  
 ## Description
-Hello! This project was developed during the `Data Analysis` bootcamp at TripleTen in 2024. It was evaluated and approved by a professional and its focus was funil analysis and A/A/B test
+Hello! This project was developed during the `Data Analysis` bootcamp at TripleTen in 2024. It was evaluated and approved by a professional and its focus was funnel analysis and A/A/B testing
 
 In this context, a food delivery app provided data to analyze user behavior.
 
