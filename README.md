@@ -1,4 +1,4 @@
-# # 🧪 Análise de Funil de Vendas e Teste A/A/B no App de Produtos Alimentícios
+# # 🔬 Análise de Funil de Vendas e Teste A/A/B no App de Produtos Alimentícios
 
 Este projeto consiste na análise do comportamento dos usuários em um aplicativo de vendas de uma startup de alimentos. A análise se divide em duas partes principais: o estudo do funil de conversão dos usuários dentro do app e a avaliação dos resultados de um teste A/A/B, cujo objetivo é verificar o impacto de uma mudança de fonte na taxa de conversão. O projeto foi desenvolvido durante o bootcamp de Análise de Dados da TripleTen e tem fins educacionais e de portfólio.
 
