@@ -1,15 +1,65 @@
-# Projeto11__Tripleten-Bootcamp
- 
-## Description
-Hello! This project was developed during the `Data Analysis` bootcamp at TripleTen in 2024. It was evaluated and approved by a professional and its focus was funnel analysis and A/A/B testing
+# # 🧪 Análise de Funil de Vendas e Teste A/A/B no App de Produtos Alimentícios
 
-In this context, a food delivery app provided data to analyze user behavior.
+Este projeto consiste na análise do comportamento dos usuários em um aplicativo de vendas de uma startup de alimentos. A análise se divide em duas partes principais: o estudo do funil de conversão dos usuários dentro do app e a avaliação dos resultados de um teste A/A/B, cujo objetivo é verificar o impacto de uma mudança de fonte na taxa de conversão. O projeto foi desenvolvido durante o bootcamp de Análise de Dados da TripleTen e tem fins educacionais e de portfólio.
 
-This project currently includes my annotations and reviewer feedback, but a refined and restructured version will be published shortly.
+## 🗂️ Estrutura do Projeto
+- ``Projeto/`` — Notebook final com os códigos organizados e comentários do autor.
 
-## Descrição
-Olá! Este é um projeto realizado durante o bootcamp de `Análise de dados` da Tripleten em 2024. Este projeto foi avaliado e aprovado por um profissional, e seu foco foi a análise de funil e teste A/A/B
+- ``Feedback/`` — Notebook com comentários do revisor técnico do bootcamp.
 
-No contexto deste projeto, uma startup que vende produtos alimentícios precisa que seja analisado o comportamento do usuário para o aplicativo da empresa.
+- ``Dados/`` — Arquivo .csv com os dados utilizados na análise.
 
-Este projeto ainda está com comentários meus e do revisor, mas em breve será atualizado para uma versão mais limpa e estruturada.
+## 🧠 Objetivos do Projeto
+- Analisar o comportamento dos usuários no funil de vendas do app.
+
+- Identificar gargalos nas etapas do funil e propor melhorias.
+
+- Avaliar o impacto da mudança de fonte no design do app por meio de um teste A/A/B.
+
+- Verificar a consistência entre os grupos de controle e o grupo de teste.
+
+## 🛠 Técnicas Utilizadas
+- Análise exploratória de dados (EDA)
+
+- Análise de funil de conversão
+
+- Testes de hipóteses (teste de proporções com scipy.stats)
+
+- Manipulação de dados com pandas
+
+- Comunicação de resultados com Jupyter Notebooks
+
+## 🧪 Metodologia A/A/B
+- Os usuários foram divididos em três grupos:
+
+    - A1 e A2: grupos de controle com a fonte original
+
+    - B: grupo de teste com a nova fonte
+
+- Foram realizadas comparações entre A1 vs A2 (validação do teste) e A1/A2 vs B (impacto da nova fonte).
+
+- Conclusões baseadas em testes estatísticos e análise descritiva.
+
+## 📈 Exemplos de Análises Realizadas
+- Qual porcentagem de usuários conclui o funil de compras?
+
+- Em que etapa os usuários mais abandonam o processo?
+
+- A nova fonte tem impacto negativo na conversão?
+
+- Os grupos de controle são estatisticamente semelhantes?
+
+## 💾 Como Executar
+- Clone este repositório em sua máquina local.
+
+- Certifique-se de ter Python 3 instalado com as seguintes bibliotecas:
+
+    - Pandas
+
+    - Numpy
+
+    - Scipy
+
+- Abra o notebook em Projeto/ com Jupyter ou VSCode.
+
+- Execute as células para reproduzir a análise.
